@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0814ded4-4c7b-4645-8816-7a8b464cbdf2": {
+      "ProjectGuid": "0814ded4-4c7b-4645-8816-7a8b464cbdf2",
+      "DisplayName": "FactoryDB",
+      "ColorIndex": 0
+    },
+    "1be5f1ee-cd90-42d2-a2da-e6c8484eb036": {
+      "ProjectGuid": "1be5f1ee-cd90-42d2-a2da-e6c8484eb036",
+      "DisplayName": "Entity",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
